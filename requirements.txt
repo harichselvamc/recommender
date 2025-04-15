@@ -1,5 +1,5 @@
 fastapi
 numpy
 pandas
-sklearn
+scipy
 uvicorn
